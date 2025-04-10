@@ -1,11 +1,10 @@
-import './App.css'
+// src/App.jsx
 
-function App() {
+const App = () => {
 
   return (
-    <>
-      <h1>HELLO WORLD!</h1>
-    </>
-  )
+    <h1>Hello world!</h1>
+  );
 }
+
 export default App
